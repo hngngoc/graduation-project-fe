@@ -1,0 +1,21 @@
+export const ERROR_MESSAGE: any = {
+  1: "Thành công",
+  2: "Unauthorized",
+  3: "Đang xảy ra sự cố, vui lòng liên hệ với quản trị viên",
+  4: "Dữ liệu không tồn tại",
+  5: "Tên đăng nhập đã tồn tại",
+  6: "Số điện thoại đã tồn tại",
+  7: "Email đã tồn tại",
+  8: "Mật khẩu không chính xác",
+  9: "Xoá không thành công",
+  10: "Đã hoạt động",
+  11: "This account is already registered",
+  12: "Token không chính xác",
+  13: "Token hết hạn",
+  14: "Dữ liệu đã tồn tại",
+  15: "Code đã tồn tại",
+  16: "Alias đã tồn tại",
+  17: "Dữ liệu đang được sử dụng không thể xoá",
+  19: "Dữ liệu đang được sử dụng không thể xoá",
+  21: "Cần kích hoạt đơn vị giá"
+};
