@@ -1,0 +1,20 @@
+@import './fonts.scss';
+
+body {
+    font-family: 'SF-ProDisplay';
+}
+
+
+::-webkit-scrollbar {
+    width: 3px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #29166F;
+    background-clip: content-box;
+}

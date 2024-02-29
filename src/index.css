@@ -1,4 +1,5 @@
 @tailwind base;
+@import "/src/assets/css/preflight.scss";
 @tailwind components;
 @tailwind utilities;
 
